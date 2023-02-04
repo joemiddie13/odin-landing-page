@@ -5,4 +5,4 @@ A couple of friends and I used to talk about creating clothing and outdoor gear 
 
 With this project, I will practice some of the skills I have learned so far before moving onto JavaScript!
 
-Will add updates as I go!
+I will add updates as I go!
