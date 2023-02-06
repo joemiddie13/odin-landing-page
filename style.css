@@ -4,11 +4,12 @@
 
 .header {
     display: flex;
-    padding: 4px;
+    padding: 1px;
+    margin: 10px;
     border: 4px solid blue;
     border-radius: 10px;
     gap: 15px;
-    justify-content: center | space-evenly;
+    justify-content: space-evenly;
     align-items: center;
 }
 
@@ -17,6 +18,20 @@
 }
 
 .Logo {
-    width: 150px;
-    height: 150px;
+    width: 200px;
+    height: 200px;
+}
+
+.main {
+    float: left;
+    padding: 50px 120px;
+    border: 4px solid blue;
+}
+
+.rocko {
+    display: flex;
+    float: right;
+    width: 350px;
+    height: 350px;
+    padding: 50px 250px 100px 100px;
 }
