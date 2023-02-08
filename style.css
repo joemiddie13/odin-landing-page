@@ -23,15 +23,21 @@
 }
 
 .main {
-    float: left;
     padding: 50px 120px;
     border: 4px solid blue;
+    float: left;
 }
 
 .rocko {
-    display: flex;
     float: right;
+}
+
+.portrait {
     width: 350px;
     height: 350px;
-    padding: 50px 250px 100px 100px;
+}
+
+.middle {
+    display: flex;
+    margin: 400px;
 }
