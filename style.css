@@ -26,10 +26,16 @@
     padding: 50px 120px;
     border: 4px solid blue;
     float: left;
+    display: inline-block;
+    height: 200px;
+    width: 300px;
 }
 
 .rocko {
     float: right;
+    display: inline-block;
+    width: 600px;
+    height: 200px;
 }
 
 .portrait {
@@ -38,6 +44,10 @@
 }
 
 .middle {
-    display: flex;
-    margin: 400px;
+    display: inline-block;
+    margin: 100px;
+    border: 4px solid blue;
+    height: 100px;
+    width: 1000px;
+    text-align: center;
 }
